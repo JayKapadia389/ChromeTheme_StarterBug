@@ -5,7 +5,7 @@ This repository contains a custom Chrome theme that changes the appearance of th
 ## Repository Structure
 
 ```
-Chrome-Theme/
+ChromeTheme_StarterBug/
 │── ChromeTheme.crx      # Packaged theme file
 │── Unpacked/            # Unpacked source for customization
 │   ├── images/          # Image assets used in the theme
@@ -26,7 +26,7 @@ Chrome-Theme/
 
 1. Download or clone this repository:
    ```sh
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/JayKapadia389/ChromeTheme_StarterBug.git
    ```
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode** (toggle switch in the top-right corner).
