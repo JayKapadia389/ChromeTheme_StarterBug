@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "theme-by-jay-kapadia",
+    "theme": {
+      "images" : {
+        "theme_frame": "images/blur.png",
+        "theme_ntp_background" : "images/nebula.png"
+      },
+      "colors" : {
+        "frame" : [200,200,200],
+        "toolbar" : [79, 45, 73],
+        "toolbar_button_icon" : [255, 223, 239],
+        "toolbar_text" : [255, 223, 239],
+        "button_background":[75, 22, 76],
+        "background_tab":[75, 22, 76]
+      }
+    }
+  }
+ 
