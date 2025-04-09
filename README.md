@@ -2,6 +2,8 @@
 
 This repository contains a custom Chrome theme that changes the appearance of the browser. The theme is available as a packaged `.crx` file for easy installation and as an unpacked version for customization.
 
+![Theme Preview](theme_preview.png)
+
 ## Repository Structure
 
 ```
